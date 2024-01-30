@@ -25,7 +25,7 @@ Parameters:
   NamingPrefix:
     Type: String
     Description: The naming prefix for resources created by this template.
-    Default: WebApp1
+    Default: AppWeb1
   #Imports:
   VPCImportName:
     Type: String
